@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1 align="center">I'm Bekbolsun Raim</h1>
+<h3 align="center">Computer Science student, Software Engineer</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raimberdiyevb&label=Profile%20views&color=0e75b6&style=flat" alt="raimberdiyevb" /> </p>
 <!--
 **raimberdiyevb/raimberdiyevb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
