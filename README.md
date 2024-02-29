@@ -2,17 +2,15 @@
 <h3 align="center">Computer Science student, Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raimberdiyevb&label=Profile%20views&color=0e75b6&style=flat" alt="raimberdiyevb" /> </p>
-<!--
-**raimberdiyevb/raimberdiyevb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/RaimberdiyevB" alt="LeetCode Stats Card">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About me
+
+- 🔭 I’m currently **expanding my knowlege in WebSite Development(Spring/JS)**
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/raimberdiyev)
+- 👨‍💻 All of my projects are available at GitHub
+- 💬 Ask me about **anything that I can answer**
+- 📫 How to reach me **bekbolsun.raimberdiev@gmail.com**
